@@ -1,0 +1,25 @@
+/* src/components/Post.css */
+
+.post {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .poster-name {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .datetime {
+    color: #777;
+    margin-bottom: 8px;
+  }
+  
+  .content {
+    line-height: 1.4;
+  }
+  
